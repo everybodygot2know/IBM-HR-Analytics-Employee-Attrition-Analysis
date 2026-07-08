@@ -1,5 +1,5 @@
 # IBM-HR-Analytics-Employee-Attrition-Analysis
-This project analyzes employee attrition using the IBM HR Analytics dataset from Kaggle. The objective was to identify key factors contributing to employee turnover and demonstrate how Excel can be used to perform end-to-end business analysis, from data exploration and statistical modeling to optimization and executive decision support.
+This project analyzes employee attrition using the fictional IBM HR Analytics dataset from Kaggle. The objective was to identify key factors contributing to employee turnover and demonstrate how Excel can be used to perform end-to-end business analysis, from data exploration and statistical modeling to optimization and executive decision support.
 
 The project combines descriptive analytics, inferential statistics, scenario analysis, and optimization techniques commonly used by business, finance, operations, and HR analysts.
 
