@@ -41,11 +41,15 @@ Investigated employee demographics and workplace characteristics through:
 **Correlation Analysis**
 * Measured relationships between employee attributes and attrition to identify potential predictors.
 
-<img width="840" height="499" alt="{823D8293-BF6A-4FED-B82E-AA5BF63E6884}" src="https://github.com/user-attachments/assets/dfd10fe7-ead0-4147-87f6-74aaa158e3eb" />
+
+<img width="1152" height="582" alt="{34D64895-623A-4C0F-824A-79381EF574A6}" src="https://github.com/user-attachments/assets/988cf1a4-71e0-4064-9734-3f6cb9c338b5" />
+
 
 
 **Multiple Linear Regression**
 * Built a regression model to quantify the impact of employee characteristics on attrition while controlling for other variables.
+
+<img width="840" height="499" alt="{823D8293-BF6A-4FED-B82E-AA5BF63E6884}" src="https://github.com/user-attachments/assets/dfd10fe7-ead0-4147-87f6-74aaa158e3eb" />
 
 **Model Results:**
 
@@ -54,15 +58,18 @@ Investigated employee demographics and workplace characteristics through:
 * p < 0.001
 
 
-<img width="1034" height="620" alt="image" src="https://github.com/user-attachments/assets/4283a7ab-0783-4a86-a153-ec28e88b92e3" />
-
 **Scenario Analysis**
 * Used Goal Seek to estimate compensation changes required to reach targeted attrition reductions.
 
-<img width="776" height="332" alt="{D6A6C0A2-9B35-4B96-9740-BB826D9A1F5B}" src="https://github.com/user-attachments/assets/a57288cf-f079-4727-9044-8b01fe98053b" />
+<img width="1034" height="620" alt="image" src="https://github.com/user-attachments/assets/4283a7ab-0783-4a86-a153-ec28e88b92e3" />
+
 
 **Optimization**
 * Used Excel Solver to optimize salary allocations under a fixed compensation budget.
+
+<img width="776" height="332" alt="{D6A6C0A2-9B35-4B96-9740-BB826D9A1F5B}" src="https://github.com/user-attachments/assets/a57288cf-f079-4727-9044-8b01fe98053b" />
+
+
 
 **Key Findings**
 * Overtime was the strongest predictor of employee attrition.
@@ -79,6 +86,7 @@ Investigated employee demographics and workplace characteristics through:
 * Use optimization techniques to maximize retention outcomes within budget constraints.
 
 Original Source: IBM HR Analytics Employee Attrition & Performance
+
 (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 
