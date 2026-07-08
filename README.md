@@ -78,5 +78,8 @@ Investigated employee demographics and workplace characteristics through:
 * Allocate compensation strategically rather than evenly across the workforce.
 * Use optimization techniques to maximize retention outcomes within budget constraints.
 
+Original Source: IBM HR Analytics Employee Attrition & Performance
+(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 
 Created by Walter Keel | July 2026
