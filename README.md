@@ -35,7 +35,6 @@ Investigated employee demographics and workplace characteristics through:
 * Years at Company
 
 
-<img width="1152" height="582" alt="{34D64895-623A-4C0F-824A-79381EF574A6}" src="https://github.com/user-attachments/assets/988cf1a4-71e0-4064-9734-3f6cb9c338b5" />
 
 
 **Correlation Analysis**
